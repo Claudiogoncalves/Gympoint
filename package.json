@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "claudiogoncalves <claudio.goncalves@itsector.pt>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
